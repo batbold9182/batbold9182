@@ -147,3 +147,7 @@ Book discovery over the Open Library API, no framework.
 <p align="center">
   <a href="mailto:batbold918273645@gmail.com">batbold918273645@gmail.com</a> · <a href="https://portfolio-batbold.vercel.app">portfolio-batbold.vercel.app</a>
 </p>
+
+<p align="center">
+  <a href="mailto:batbold918273645@gmail.com">Leetcode Link</a> · <a href="https://leetcode.com/u/Stupidassni/"></a>
+</p>
