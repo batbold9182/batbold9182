@@ -149,5 +149,5 @@ Book discovery over the Open Library API, no framework.
 </p>
 
 <p align="center">
-  <a href="mailto:batbold918273645@gmail.com">Leetcode Link</a> · <a href="https://leetcode.com/u/Stupidassni/"></a>
+  <a href="https://leetcode.com/u/Stupidassni/">LeetcodeLink</a>· 
 </p>
