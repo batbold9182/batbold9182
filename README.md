@@ -35,6 +35,7 @@ Applied security is where the extra hours go. In my own music-review app I found
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FAST-API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-2F2F2F?style=flat-square)
@@ -58,6 +59,7 @@ Applied security is where the extra hours go. In my own music-review app I found
 **Database & Tools**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
@@ -68,7 +70,8 @@ Applied security is where the extra hours go. In my own music-review app I found
 
 **Currently learning**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FAST-API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Fullstack Open](https://img.shields.io/badge/Fullstack%20Open-000000?style=flat-square)
 
